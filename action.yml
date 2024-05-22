@@ -10,4 +10,3 @@ runs:
     
     run: echo "Hello World"
     shell: bash
-      run: echo "x = ${{ inputs.x}} y = ${{}}"
